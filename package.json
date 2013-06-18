@@ -1,0 +1,15 @@
+{
+  "name": "fonts",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "fonts.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "cliff": "~0.1.8"
+  }
+}
