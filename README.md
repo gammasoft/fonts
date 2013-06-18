@@ -1,5 +1,4 @@
-fonts
-=====
+#fonts#
 
 ```
 ____ ____ ____ _       _    ____ ____ _  _ _ _  _ ____    ____ ____ _  _ ___ ____ 
@@ -27,9 +26,10 @@ fonts("!?").print();
 fonts("0123456789").print();
 fonts("+ - _ , . : ;").print();
 ```
-or
+or say you want to use [cliff](https://github.com/flatiron/cliff) as you like things coloured
+
 ```JavaScript
-var cliff = require("cliff"); //say you have cliff as a dependency as you want to colorize your text
+var cliff = require("cliff"); 
 var fonts = require("fonts");
 
 var textArray = fonts("This is gonna be colorful!").raw(); //return an array with your text
